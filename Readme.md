@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.com/StratfordHS-CS2/lab-00-hello-world-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-CS2/lab-00-hello-world-username)
+[![Build Status](https://travis-ci.com/StratfordHS-APCS/lab-00-hello-world-username.svg?token=L8ZuTUsXtxKqevAPVWLC&branch=master)](https://travis-ci.com/StratfordHS-APCS/lab-00-hello-world-username)
 
 # Lab 0 - Hello World
 
